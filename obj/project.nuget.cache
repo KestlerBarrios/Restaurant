@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pto36H04YCFYMalCuCzbesajpDg0uzf1PddgK8hS8y5fBD8XCMrHnD8Ex3EIJAN0rhgmFj8CyijOPPLG0fwU4A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C#\\Restaurant\\Restaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kestler Barrios\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kestler Barrios\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
